@@ -27,7 +27,7 @@ body{
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: url("images/itachi.png") no-repeat center;
+	background: url("images/1.jpg") no-repeat center;
 	background-size: cover;
 	filter: blur(50px);
 	z-index: -1;
@@ -44,7 +44,7 @@ body{
 }
 
 .left{
-	background: url("images/itachi.png") no-repeat center;
+	background: url("images/1.jpg") no-repeat center;
 	background-size: cover;
 	height: 100%;
 }

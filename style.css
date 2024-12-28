@@ -45,7 +45,7 @@
   nav .navbar .logo a{
     font-weight: 500;
     font-size: 35px;
-    color: #407bbe ;
+    color: #000000 ;
   }
   nav.sticky .navbar .logo a{
     color: #fff;
@@ -109,7 +109,7 @@
   .home{
     height: 100vh;
     width: 100%;
-    background: url("images/background.png") no-repeat;
+    background: url("images/Screenshot\ \(1\).png") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -125,10 +125,10 @@
   }
   .home .text-one{
     font-size: 25px;
-    color: #c3ced4;
+    color: #000000;
   }
   .home .text-two{
-    color: #9fcf52;
+    color: #000000;
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
@@ -136,12 +136,12 @@
   .home .text-three{
     font-size: 40px;
     margin: 5px 0;
-    color: #caf3d6;
+    color: #000000;
   }
   .home .text-four{
     font-size: 23px;
     margin: 5px 0;
-    color: #c1db2e;
+    color: #000000;
   }
   .home .button{
     margin: 14px 0;
@@ -153,13 +153,13 @@
     font-size: 25px;
     font-weight: 400;
     background: #407bbe ;
-    color: rgb(3, 3, 3);
+    color: rgb(240, 15, 15);
     cursor: pointer;
     border: 2px solid transparent;
     transition: all 0.4s ease;
   }
   .home .button button:hover{
-    border-color: #407bbe ;
+    border-color: #ffffff ;
     background-color: #fff;
     color: #407bbe ;
   }
@@ -519,3 +519,4 @@
     box-shadow: rgba(0, 0, 0, 0.15);
     display: none;
   }
+
