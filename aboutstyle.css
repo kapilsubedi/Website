@@ -1,0 +1,32 @@
+*
+{
+        margin: 0;
+        padding: 0;
+        background-color: black;
+       
+}
+
+.manjit{
+    width: 49%;
+    height: 65%;
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+    border-radius: 50px;
+    
+}
+
+.details{
+    font-size: 20px;
+    color: rgb(202, 195, 195);
+   font-family: sans-serif;
+    position: absolute;
+    padding-left: 60%;
+    padding-bottom: 5%;
+    bottom: 0;
+
+}
+
+#heading{
+    color: rgb(204, 207, 12);
+}
